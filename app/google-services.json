@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "615901583070",
+    "firebase_url": "https://cadastrodeprofessores-27984.firebaseio.com",
+    "project_id": "cadastrodeprofessores-27984",
+    "storage_bucket": "cadastrodeprofessores-27984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615901583070:android:b826eaf19df32f95",
+        "android_client_info": {
+          "package_name": "netflix.com.cadastro_de_professores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615901583070-irdm4jtetkj5qopqkgch7tmjipe22esh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "netflix.com.cadastro_de_professores",
+            "certificate_hash": "f561c074a0088b83740a907d96bfca4867f4b210"
+          }
+        },
+        {
+          "client_id": "615901583070-eigc63angjla1s4332s8cg346qnqnbtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd_JiXVF99sWzCTjfOyHi3KCJZe0yKkH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615901583070-eigc63angjla1s4332s8cg346qnqnbtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
